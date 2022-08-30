@@ -1,3 +1,3 @@
-# exercicios
-
-Lugar onde irei colocar os meus exercicios realizados, seja em C ou Java
+### Exercícios realizados por mim
+##
+Aqui irei upar todos os exercícios frutos dos estudos que estou fazendo
