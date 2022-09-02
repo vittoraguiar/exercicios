@@ -1,3 +1,3 @@
-### Exercícios realizados por mim
+### Exercícios
 ##
-Aqui irei upar todos os exercícios frutos dos estudos que estou fazendo
+Aqui irei upar todos os exercícios realizados pela faculdade ou cursos
