@@ -7,36 +7,30 @@
 
 int main(int argc, char const *argv[])
 {
-    int age[5], x = 0;
-    char sexo[5][1];
-    char nome[5][21], nomesImprimir[5][21];
+    int age[3], x = 0;
+    char sexo[3][1];
+    char nome[3][21], homens21[3][21];
 
     for (int i = 0; i < 5; i++)
     {
-        printf("Digite o nome da %da pessoa: ", i + 1);
+        printf("\nDigite o nome da %da pessoa: ", i + 1);
         fflush(stdin);
         gets(&nome[i]);
-        printf("Digite A idade da %da pessoa: ", i + 1);
+        printf("Digite a idade da %da pessoa: ", i + 1);
         scanf("%d", &age[i]);
+        printf("Digite o sexo da %da pessoa: ", i + 1);
+        scanf("%c ", &sexo[i]);
         if ((sexo[i] == 'M' || sexo[i] == 'm') && age[i] > 21)
         {
-            nomesImprimir[x] = nome[i];
-            x++; 
+            homens21[x][0] = nome[i];
+            x++;
         }
-        
     }
-    
 
-
-
-    for (int i = 0; i < 5; i++)
+    printf("nomes:");
+    for (int i = 0; i <= x; i++)
     {
-        printf("Digite o nome: ");
-        fflush(stdin);
-        gets(&nome);
-        printf("Digite o sexo: ");
-        scanf("%c ", &sexo);
-        printf("")
+        printf("%s", homens21[i]);
     }
 
     return 0;
