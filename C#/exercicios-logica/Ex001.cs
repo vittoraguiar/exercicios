@@ -16,7 +16,7 @@ namespace ex001
             }
             else
             {
-                Console.WriteLine("O número inserido é negativo");
+                Console.WriteLine("O número inserido é negativo!");
             }
         }
     }
