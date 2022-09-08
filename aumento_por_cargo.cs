@@ -1,6 +1,6 @@
 using System;
 
-namespace Aumento_por_cargo
+namespace aumento_por_cargo
 {
     class Program
     {
