@@ -1,0 +1,15 @@
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.exe
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.deps.json
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.runtimeconfig.json
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.dll
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\bin\Debug\net6.0\AumentoDeSalario.pdb
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.csproj.AssemblyReference.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.AssemblyInfoInputs.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.AssemblyInfo.cs
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.dll
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\refint\AumentoDeSalario.dll
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.pdb
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\AumentoDeSalario.genruntimeconfig.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\AumentoDeSalario\AumentoDeSalario\obj\Debug\net6.0\ref\AumentoDeSalario.dll
