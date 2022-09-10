@@ -1,0 +1,15 @@
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\bin\Debug\net6.0\Notas.exe
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\bin\Debug\net6.0\Notas.deps.json
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\bin\Debug\net6.0\Notas.runtimeconfig.json
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\bin\Debug\net6.0\Notas.dll
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\bin\Debug\net6.0\Notas.pdb
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\Notas.csproj.AssemblyReference.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\Notas.AssemblyInfoInputs.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\Notas.AssemblyInfo.cs
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\Notas.csproj.CoreCompileInputs.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\Notas.dll
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\refint\Notas.dll
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\Notas.pdb
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\Notas.genruntimeconfig.cache
+C:\Users\vitto\OneDrive\Documentos\rider-workspace\Notas\Notas\obj\Debug\net6.0\ref\Notas.dll
