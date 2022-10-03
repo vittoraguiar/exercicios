@@ -15,12 +15,12 @@ namespace AumentoDeSalario
             func.SalarioBruto = double.Parse(Console.ReadLine()!);
             Console.Write("Imposto: ");
             func.Imposto = double.Parse(Console.ReadLine()!);
-            
             Console.WriteLine("Funcionário: " + func);
             Console.Write("Digite a porcentagem para aumentar o salário: ");
-            double porcent = double.Parse(Console.ReadLine()!);
-            func.AumentarSalario(porcent);
+            double porcentagem = double.Parse(Console.ReadLine()!);
+            func.AumentarSalario(porcentagem);
             Console.WriteLine("\nDados atualizados: " + func);
+            Console.ReadLine();
         }
     }
 }

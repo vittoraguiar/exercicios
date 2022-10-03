@@ -3,13 +3,14 @@
 
 int main(int argc, char const *argv[])
 {
-    /* Faça um programa que leia a data de nascimento de uma pessoa expressa em anos, meses e dias e mostre a sua idade atual expressa apenas em dias.
+    /* 
+     * Faça um programa que leia a data de nascimento de uma pessoa expressa em anos, meses e dias e mostre a sua idade atual expressa apenas em dias.
      * Desconsiderando anos bissextos e considerando que os meses possuem 30 dias
     */
 
-    int dA, mA, aA, dN, mN, aN, anos, meses, dias;// dia atual <-> dia nascimento
+    int dA, mA, aA, dN, mN, aN, anos;// dia atual <-> dia nascimento
     char criterio = 'n';
-    // programa
+    
     do
     {
         printf("Insira a data de hoje (dd/mm/aaaa): ");
@@ -30,9 +31,6 @@ int main(int argc, char const *argv[])
     criterio = 's';
 
     anos = aA - aN;
-
-    dias += anos * 365;
-    
-    printf("\nVoce possui %d", anos);
+    printf("\nVoce possui %d anos.", anos);
     return 0;
 }
